@@ -1,5 +1,7 @@
 # BesideTheStars
+
 48 Hour Global Game Jam Project
+
 Originally Uploaded on https://github.com/skillc01/BesideTheStars 
 
 ### Prerequisites
